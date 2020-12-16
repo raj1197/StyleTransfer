@@ -1,19 +1,19 @@
 # StyleTransfer
 **Deep Learning End Semester Project - Done By Raj Uttam (ru388) and Neeharika Vangavaragu (nv911)**\
 \
-In this project we've tried to implement neural style transfer using 2 techniques\
-  i. Gaty's et al Implementation \
-  ii. Instance Normalization Technique 
+In this project we've tried to implement neural style transfer using two techniques\
+  i. Gatys et al Implementation \
+  ii. Huang at al (Adaptive Instance Normalization Technique) Implementation
 
 You'll find code for both these techniques in the form on Jupyter Notebooks
 
 We've used google colab environment for developing this project and we suggest you to use the same.\
-Please checkout Gaty's_method notebook first followed by Instance normalization notebook
+Please checkout Gatys_method notebook first followed by Instance normalization notebook
 
 **Description of Files and Folders**\
-  i. Gaty's_Method.ipynb -: Jupyter Notebook File for Gaty's Method\
+  i. Gatys_Method.ipynb -: Jupyter Notebook File for Gatys Method\
   ii. instance Normalization.ipynb -: Jupyter Notebook for the instance normalization Technique\
-  iii. Gaty's output -: Output Images generated using Gaty's technique\
+  iii. Gatys output -: Output Images generated using Gaty's technique\
   iv. Instance Normalization - Input Images -: The input image files that are required for the Instance Normalization Notebook\
   v. Instance Normalization - Outputs :- Some Output Images generated using the Instance Normalization Technique\
   
