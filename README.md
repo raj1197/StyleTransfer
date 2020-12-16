@@ -11,7 +11,7 @@ We've used google colab environment for developing this project and we suggest y
 Please checkout Gaty's_method notebook first followed by Instance normilization notebook
 
 Description of Files and Folders\
-  i) Gaty's_Method.ipynb -: Jupyter Notebook File for Gaty's Method\
+ * i) Gaty's_Method.ipynb -: Jupyter Notebook File for Gaty's Method\
   ii) instance Normilization.ipynb -: Jupyter Notebook for the instance normilization Technique\
   iii) Gaty's output -: Output Images generated using Gaty's technique\
   iv) Instance Normilization - Input Images -: The input image files that are required for the Instance Normilization Notebook\
