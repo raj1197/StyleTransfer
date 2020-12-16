@@ -17,3 +17,12 @@ Please checkout Gaty's_method notebook first followed by Instance normilization 
   iv. Instance Normilization - Input Images -: The input image files that are required for the Instance Normilization Notebook\
   v. Instance Normilization - Outputs :- Some Output Images generated using the Instance Normilization Technique\
   
+**Note:**\
+Its possible that you could face some problems when you try to run the Instance Normilization Notebook, we're importing torchfile package
+and when you compile and run our code, you could get an error saying "xrange is not defined". If you get this error then here are 3 simple steps that will help you resolve this error
+
+i. Click on the file name in which the error is coming (torchfile.py)
+ii. Edit Line number 228(torchfile.py) from for i in xrange(n) to for i in list(range(n) and save the file
+iii. Restart the runtime and start executing from cell 3 of the notebook ( Running cell 1 and 2 will download the package again and replace the change you just made)
+
+You should be able to see our outputs provided you've uploaded the input image files from Instance Normilization - Input image folder to google colab
