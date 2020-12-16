@@ -12,7 +12,7 @@ Please checkout Gaty's_method notebook first followed by Instance normalization 
 
 **Description of Files and Folders**\
   i. Gaty's_Method.ipynb -: Jupyter Notebook File for Gaty's Method\
-  ii. instance Normilization.ipynb -: Jupyter Notebook for the instance normalization Technique\
+  ii. instance Normalization.ipynb -: Jupyter Notebook for the instance normalization Technique\
   iii. Gaty's output -: Output Images generated using Gaty's technique\
   iv. Instance Normalization - Input Images -: The input image files that are required for the Instance Normalization Notebook\
   v. Instance Normalization - Outputs :- Some Output Images generated using the Instance Normalization Technique\
