@@ -22,7 +22,10 @@ Its possible that you could face some problems when you try to run the Instance 
 and when you compile and run our code, you could get an error saying "xrange is not defined". If you get this error then here are 3 simple steps that will help you resolve this error
 
 i. Click on the file name in which the error is coming (torchfile.py)\
+![Error](https://user-images.githubusercontent.com/60336372/102344847-7bbd0300-3f6a-11eb-9dc4-97ea2cd980c4.PNG)
 ii. Edit Line number 228(torchfile.py) from for i in xrange(n) to for i in list(range(n) and save the file\
+![Error-2](https://user-images.githubusercontent.com/60336372/102344863-811a4d80-3f6a-11eb-875b-9285010bd3cd.PNG)
+
 iii. Restart the runtime and start executing from cell 3 of the notebook ( Running cell 1 and 2 will download the package again and replace the change you just made)
 
 You should be able to see our outputs provided you've uploaded the input image files from Instance Normilization - Input image folder to google colab
