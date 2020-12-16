@@ -1,5 +1,5 @@
 # StyleTransfer
-Deep Learning End Semester Project - Done By Raj Uttam (ru388) and Neeharika Vangavaragu (nv911)\
+**Deep Learning End Semester Project - Done By Raj Uttam (ru388) and Neeharika Vangavaragu (nv911)**\
 \
 In this project we've tried to implement neural style transfer using 2 techniques\
   i. Gathy's et al Implementation \
