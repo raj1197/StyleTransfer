@@ -10,7 +10,7 @@ You'll find code for both these techniques in the form on Jupyter Notebooks
 We've used google colab environment for developing this project and we suggest you to use the same.\
 Please checkout Gaty's_method notebook first followed by Instance normilization notebook
 
-Description of Files and Folders\
+**Description of Files and Folders**\
   i. Gaty's_Method.ipynb -: Jupyter Notebook File for Gaty's Method\
   ii. instance Normilization.ipynb -: Jupyter Notebook for the instance normilization Technique\
   iii. Gaty's output -: Output Images generated using Gaty's technique\
